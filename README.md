@@ -55,8 +55,8 @@ Not only that, you can also generate a limited number of promotional codes.
 
 # Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/MrRubby/Discord_Sales_Bot/master/urun-ekle.png)
+![Screenshot](https://raw.githubusercontent.com/MrRubby/Discord_Sales_Bot/master/Screenshot/urun-ekle.png)
 
-![Screenshot](https://raw.githubusercontent.com/MrRubby/Discord_Sales_Bot/master/urunler.png)
+![Screenshot](https://raw.githubusercontent.com/MrRubby/Discord_Sales_Bot/master/Screenshot/urunler.png)
 
-![Screenshot](https://raw.githubusercontent.com/MrRubby/Discord_Sales_Bot/master/urun-bilgi.png)
+![Screenshot](https://raw.githubusercontent.com/MrRubby/Discord_Sales_Bot/master/Screenshot/urun-bilgi.png)
