@@ -8,7 +8,7 @@
 In order to install this, you need to run the following command in your respected Command Prompt or Code editor.
 
 ```coffeescript
-git clone https://github.com/MrRubby/Discord-Custom-Rich.git
+git clone https://github.com/MrRubby/Discord_Sales_Bot.git
 ```
 
 You can also install by clicking 'Releases' in the tab at the right side.
@@ -55,8 +55,8 @@ Not only that, you can also generate a limited number of promotional codes.
 
 # Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/MrRubby/Discord-Custom-Rich/master/urun-ekle.png)
+![Screenshot](https://raw.githubusercontent.com/MrRubby/Discord_Sales_Bot/master/urun-ekle.png)
 
-![Screenshot](https://raw.githubusercontent.com/MrRubby/Discord-Custom-Rich/master/urunler.png)
+![Screenshot](https://raw.githubusercontent.com/MrRubby/Discord_Sales_Bot/master/urunler.png)
 
-![Screenshot](https://raw.githubusercontent.com/MrRubby/Discord-Custom-Rich/master/urun-bilgi.png)
+![Screenshot](https://raw.githubusercontent.com/MrRubby/Discord_Sales_Bot/master/urun-bilgi.png)
